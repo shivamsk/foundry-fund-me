@@ -84,7 +84,7 @@ Issues:
     - 
 
 Questions : 
-- What is pure ? 
+- pure 
     - function getSepoliaEthConfig() public pure returns (NetworkConfig memory)
 - Style Guide 
     - Check on the style guide in cyfrin git repo 
